@@ -1,0 +1,222 @@
+# depslib dependency file v1.0
+1700222029 source:c:\users\pc-11\downloads\main.cpp
+	<iostream>
+	"time.h"
+	"funciones.h"
+	"dados.h"
+	"DosJugadores.h"
+	<cstdlib>
+
+1700228864 c:\users\pc-11\downloads\funciones.h
+
+1700228703 c:\users\pc-11\downloads\dados.h
+	"funciones.h"
+
+1700221074 c:\users\pc-11\downloads\dosjugadores.h
+	"funciones.h"
+
+1700508631 source:c:\users\usuario\desktop\proyecto de laboratorio final\main.cpp
+	<iostream>
+	"time.h"
+	"funciones.h"
+	"dados.h"
+	"DosJugadores.h"
+	<cstdlib>
+	"rlutil.h"
+
+1700330556 c:\users\usuario\desktop\proyecto de laboratorio final\funciones.h
+
+1700590473 c:\users\usuario\desktop\proyecto de laboratorio final\dados.h
+	"funciones.h"
+	"puntaje.h"
+
+1700594220 c:\users\usuario\desktop\proyecto de laboratorio final\dosjugadores.h
+	"funciones.h"
+
+1700594174 c:\users\usuario\desktop\proyecto de laboratorio final\puntaje.h
+	"funciones.h"
+	"dados.h"
+
+1571569938 c:\users\usuario\desktop\proyecto de laboratorio final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700857468 source:c:\users\usuario\downloads\main.cpp
+	<iostream>
+	<cstdlib>
+	"time.h"
+	"rlutil.h"
+	"funciones.h"
+	"puntaje.h"
+	"dados.h"
+	"DosJugadores.h"
+
+1700855517 c:\users\usuario\downloads\funciones.h
+
+1700858482 c:\users\usuario\downloads\dados.h
+
+1700855517 c:\users\usuario\downloads\puntaje.h
+
+1700858553 c:\users\usuario\downloads\dosjugadores.h
+
+1700682758 c:\users\usuario\downloads\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700668739 source:c:\users\usuario\desktop\proyecto labo 2\main.cpp
+	<iostream>
+	<cstdlib>
+	"time.h"
+	"rlutil.h"
+	"funciones.h"
+	"puntaje.h"
+	"dados.h"
+	"DosJugadores.h"
+
+1700668628 c:\users\usuario\desktop\proyecto labo 2\funciones.h
+
+1700668877 c:\users\usuario\desktop\proyecto labo 2\dados.h
+
+1700668205 c:\users\usuario\desktop\proyecto labo 2\puntaje.h
+
+1700668628 c:\users\usuario\desktop\proyecto labo 2\dosjugadores.h
+
+1700663598 c:\users\usuario\desktop\proyecto labo 2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1701043382 source:c:\users\usuario\desktop\quinientos o escalera\main.cpp
+	<iostream>
+	<cstdlib>
+	"time.h"
+	"rlutil.h"
+	"Estilo.h"
+	"funciones.h"
+	"puntaje.h"
+	"dados.h"
+	"DosJugadores.h"
+
+1700912666 c:\users\usuario\desktop\quinientos o escalera\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1701043382 c:\users\usuario\desktop\quinientos o escalera\funciones.h
+
+1701043423 c:\users\usuario\desktop\quinientos o escalera\puntaje.h
+
+1701059042 c:\users\usuario\desktop\quinientos o escalera\dados.h
+
+1701047505 c:\users\usuario\desktop\quinientos o escalera\dosjugadores.h
+
+1701059351 c:\users\usuario\desktop\quinientos o escalera\estilo.h
+
+1701043382 source:c:\users\usuario\desktop\utn\quinientos o escalera\main.cpp
+	<iostream>
+	<cstdlib>
+	"time.h"
+	"rlutil.h"
+	"Estilo.h"
+	"funciones.h"
+	"puntaje.h"
+	"dados.h"
+	"DosJugadores.h"
+
+1700912666 c:\users\usuario\desktop\utn\quinientos o escalera\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1701059351 c:\users\usuario\desktop\utn\quinientos o escalera\estilo.h
+
+1701043382 c:\users\usuario\desktop\utn\quinientos o escalera\funciones.h
+
+1701043423 c:\users\usuario\desktop\utn\quinientos o escalera\puntaje.h
+
+1701059042 c:\users\usuario\desktop\utn\quinientos o escalera\dados.h
+
+1701047505 c:\users\usuario\desktop\utn\quinientos o escalera\dosjugadores.h
+
+1701043382 source:c:\users\franj\onedrive\escritorio\utn\proyectos utn\quinientos o escalera\main.cpp
+	<iostream>
+	<cstdlib>
+	"time.h"
+	"rlutil.h"
+	"Estilo.h"
+	"funciones.h"
+	"puntaje.h"
+	"dados.h"
+	"DosJugadores.h"
+
+1700912666 c:\users\franj\onedrive\escritorio\utn\proyectos utn\quinientos o escalera\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1701059351 c:\users\franj\onedrive\escritorio\utn\proyectos utn\quinientos o escalera\estilo.h
+
+1701043382 c:\users\franj\onedrive\escritorio\utn\proyectos utn\quinientos o escalera\funciones.h
+
+1701043423 c:\users\franj\onedrive\escritorio\utn\proyectos utn\quinientos o escalera\puntaje.h
+
+1701059042 c:\users\franj\onedrive\escritorio\utn\proyectos utn\quinientos o escalera\dados.h
+
+1701047505 c:\users\franj\onedrive\escritorio\utn\proyectos utn\quinientos o escalera\dosjugadores.h
+
