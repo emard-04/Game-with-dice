@@ -1,3 +1,4 @@
+ HEAD
  Quinientos o Escalera
 
 "Quinientos o Escalera" es un juego de mesa clásico adaptado a un programa en C++. El juego se juega en una cuadrícula de 10x10, donde los jugadores se mueven por el tablero lanzando dados. El objetivo es llegar a la casilla 100 antes que los demás jugadores.
@@ -28,3 +29,6 @@
 ¡Las contribuciones son bienvenidas! Si estás interesado en mejorar el juego, puedes consultar el código fuente y hacer tus propios cambios.
 
 **¡Diviértete jugando a Quinientos o Escalera!**
+
+# Game-with-dice
+56513b338106ac0f42c7b545cccba98532163d6b
